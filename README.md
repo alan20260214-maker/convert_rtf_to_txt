@@ -101,5 +101,5 @@ $ python rtf_to_txt.py "C:\我的文件" -r
 - `argparse`：命令列參數解析（Python 標準庫）
 - `pathlib`：路徑處理（Python 標準庫）
 
-- **本工具 (convert_to_txt.py)**：採用 MIT 授權
+- **本工具 (rtf_to_txt.py)**：採用 MIT 授權
 - **striprtf**：[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)，版權歸原作者所有。
